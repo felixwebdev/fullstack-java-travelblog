@@ -115,3 +115,7 @@ CLOUD_API_SECRET=<your_cloudinary_api_secret>
 - Front-end hiện tại là tĩnh và có thể nâng cấp thành SPA.
 - Backend sử dụng MongoDB, nên cần kết nối tới cluster hoặc database cục bộ.
 - Cấu trúc này phù hợp để phát triển thành nền tảng du lịch/blog đa người dùng.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
