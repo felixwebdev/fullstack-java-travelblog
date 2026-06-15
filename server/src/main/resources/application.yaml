@@ -2,16 +2,16 @@ spring:
   application:
     name: blogdulich
   mongodb:
-    uri: "mongodb+srv://trankhanh0525_db_user:onlyadminknow@cluster0.mquwt9e.mongodb.net/sample_mflix?readPreference=primaryPreferred"
+    uri: "mongodb+srv://<username>:<password>@cluster0.mquwt9e.mongodb.net/sample_mflix?readPreference=primaryPreferred"
 
 
 jwt:
-  signerKey: "23U00bRSGRL2gaiemios4RWzqK7zkefptW0ssg3XvEaud/1yOe3XulNtS/+NaRPG"
+  signerKey: "your-super-secret-key"
 
 defaultImage:
   avartar: "https://res.cloudinary.com/desoarfu8/image/upload/v1759670502/samples/man-portrait.jpg"
 
 cloudinary:
-  cloud-name: "desoarfu8"
-  api-key: "263947446783275"
-  api-secret: "YkzVh04JfSkUT4fq--cTeTUOPRw"
+  cloud-name: "Username"
+  api-key: "api-key"
+  api-secret: "api secret"
